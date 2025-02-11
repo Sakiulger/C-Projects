@@ -1,5 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
+/*girilen sayiya göre sayinin asal olup olmadigini kontrol eden
+ya da girilen iki basamaklı sayiyi ters ceviren program
+*/
 
 int main()
 {  int sayi,a,b,i,onlar,birler,yenisayi;
